@@ -1,0 +1,27 @@
+--------------------INSTRUCTIONS--------------
+I have shared the dataset and the model weights to your Google Drive.
+
+Step 1:
+Login into Google Drive and find the "Shared With Me" tab on the left hand panel.
+
+Step 2:
+Right click the "TrackingRequirements" folder -> Organize -> Add a shortcut -> Select MyDrive
+
+Once this step is completed, you will have the "TrackingRequirements" folder available in your Drive.
+
+Step 3:
+Run the attached notebook. For testing - run the requirements section and then the testing section.
+
+
+------------------TIMING DETAILS-------------
+1. Preprocessing
+Converting dataset to YOLO compatible format
+i) Creation of train directories: 8 minutes
+ii) Creation of test directories: 5 minutes
+
+2. Training Time
+i) Model Training: 110 minutes
+
+3. Testing Time: 11 minutes
+
+
